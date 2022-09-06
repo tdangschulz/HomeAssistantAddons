@@ -2,7 +2,7 @@ ARG BUILD_FROM
 FROM $BUILD_FROM
 
 # FROM alpine:latest
-MAINTAINER MickMake <embed@mickmake.com>
+MAINTAINER Tuan <dev@dang-schulz.de>
 USER root
 
 LABEL \
